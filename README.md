@@ -17,8 +17,8 @@
 
 ### 3. ✅ Standardized Gender Column
 - Used Find and Replace to convert:
-  - `"M"` → `"male"`
-  - `"F"` → `"female"`
+  - `"m"` → `"Male"`
+  - `"f"` → `"Female"`
 
 ### 4. ✅ Fixed Column Name Formatting
 - Renamed all columns:
@@ -47,10 +47,10 @@
 ## 📁 Repository Contents:
 
 - `Raw Dataset/`
-  - `Medical_Appointment_Raw.xlsx` – Original dataset from Kaggle
+  - `Medical Appointment No Shows_Raw.xlsx` – Original dataset from Kaggle
 
 - `Cleaned Dataset/`
-  - `Medical_Appointment_Cleaned.xlsx` – Final cleaned file after processing
+  - `Medical Appointment No Shows_Cleaned.xlsx` – Final cleaned file after processing
 
 - `LICENSE` – License file for this repository
 
